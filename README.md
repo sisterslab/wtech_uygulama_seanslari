@@ -3,10 +3,11 @@
 <details>
 <summary>
 
-#### Hafta 2 (13.09.2022 - 14.09.2022)
+#### Hafta 2 (20.09.2022 - 21.09.2022)
 
 </summary>
 
+* Değişkenlerin Kapsamı
 * Kontrol Yapıları
 * Döngüler
 
