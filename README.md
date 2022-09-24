@@ -30,4 +30,4 @@
 
 
 [Week2Questions]: Hafta2/hafta_2_sorular.ipynb
-[Week3Questions]: Hafta2/hafta_3_sorular.ipynb
+[Week3Questions]: Hafta3/hafta_3_sorular.ipynb
