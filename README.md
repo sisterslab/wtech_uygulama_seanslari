@@ -44,8 +44,22 @@
 
 </details>
 
+<details>
+<summary>
 
+#### Hafta 5 (11.10.2022 - 12.10.2022)
+
+</summary>
+
+* Fonksiyonlar
+* Lambda fonksiyonlar
+* Listeler
+
+##### Sorular: [Hafta 5][Week5Questions] 
+
+</details>
 
 [Week2Questions]: Hafta2/hafta_2_sorular.ipynb
 [Week3Questions]: Hafta3/hafta_3_sorular.ipynb
 [Week4Questions]: Hafta4/hafta_4_sorular.ipynb
+[Week5Questions]: Hafta5/hafta_5_sorular.ipynb
