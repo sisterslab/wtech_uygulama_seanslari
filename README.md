@@ -73,8 +73,23 @@
 
 </details>
 
+<details>
+<summary>
+
+#### Hafta 7 (25.10.2022 - 26.10.2022)
+
+</summary>
+
+* Dosya İşlemleri
+* OOP
+
+##### Sorular: [Hafta 7][Week7Questions] 
+
+</details>
+
 [Week2Questions]: Hafta2/hafta_2_sorular.ipynb
 [Week3Questions]: Hafta3/hafta_3_sorular.ipynb
 [Week4Questions]: Hafta4/hafta_4_sorular.ipynb
 [Week5Questions]: Hafta5/hafta_5_sorular.ipynb
 [Week6Questions]: Hafta6/hafta_6_sorular.ipynb
+[Week7Questions]: Hafta7/hafta_7_sorular.ipynb
