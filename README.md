@@ -59,7 +59,22 @@
 
 </details>
 
+<details>
+<summary>
+
+#### Hafta 6 (18.10.2022 - 19.10.2022)
+
+</summary>
+
+* Dictionary
+* Set
+
+##### Sorular: [Hafta 6][Week6Questions] 
+
+</details>
+
 [Week2Questions]: Hafta2/hafta_2_sorular.ipynb
 [Week3Questions]: Hafta3/hafta_3_sorular.ipynb
 [Week4Questions]: Hafta4/hafta_4_sorular.ipynb
 [Week5Questions]: Hafta5/hafta_5_sorular.ipynb
+[Week6Questions]: Hafta6/hafta_6_sorular.ipynb
