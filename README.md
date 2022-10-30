@@ -81,9 +81,21 @@
 </summary>
 
 * Dosya İşlemleri
-* OOP
 
 ##### Sorular: [Hafta 7][Week7Questions] 
+
+</details>
+
+<details>
+<summary>
+
+#### Hafta 8 (01.11.2022 - 02.11.2022)
+
+</summary>
+
+* OOP
+
+##### Sorular: [Hafta 8][Week8Questions] 
 
 </details>
 
@@ -93,3 +105,4 @@
 [Week5Questions]: Hafta5/hafta_5_sorular.ipynb
 [Week6Questions]: Hafta6/hafta_6_sorular.ipynb
 [Week7Questions]: Hafta7/hafta_7_sorular.ipynb
+[Week8Questions]: Hafta8/hafta_8_sorular.ipynb
