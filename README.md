@@ -99,6 +99,19 @@
 
 </details>
 
+<details>
+<summary>
+
+#### Hafta 9 (08.11.2022 - 09.11.2022)
+
+</summary>
+
+* pandas
+
+##### Sorular: [Hafta 9][Week9Questions] 
+
+</details>
+
 [Week2Questions]: Hafta2/hafta_2_sorular.ipynb
 [Week3Questions]: Hafta3/hafta_3_sorular.ipynb
 [Week4Questions]: Hafta4/hafta_4_sorular.ipynb
@@ -106,3 +119,4 @@
 [Week6Questions]: Hafta6/hafta_6_sorular.ipynb
 [Week7Questions]: Hafta7/hafta_7_sorular.ipynb
 [Week8Questions]: Hafta8/hafta_8_sorular.ipynb
+[Week9Questions]: Hafta9/
